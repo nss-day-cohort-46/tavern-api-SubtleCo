@@ -5,4 +5,5 @@ class Team():
         self.name = name
         self.players = []
         self.scores = []
+        
 
